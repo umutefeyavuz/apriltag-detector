@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 opencv-python
 numpy
 apriltag
 imutils
+=======
+torch
+transformers
+psutil
+difflib
+>>>>>>> 7f8cf4d040177c45e0376bb6af9999475ed01837
