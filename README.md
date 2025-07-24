@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AprilTag High FPS Detector
 
 This lightweight Python project uses the `apriltag` library to detect AprilTags with high FPS performance. It avoids using YOLO or complex object detection frameworks and is optimized for low-power devices like the Raspberry Pi.
@@ -35,20 +34,10 @@ Notes
     Tested on Raspberry Pi 5 with a USB webcam
 
     Designed for real-time use in FRC and robotics projects
-=======
-Techtonic AI Assistant
-
-Simple AI assistant using GPT-2 and PyTorch without OpenAI API.
-
-Features:
-- Learn and remember simple Q&A
-- Basic commands: time, date, CPU temperature
-- Personality modes (neutral, friendly, funny)
-- "Imagine" mode generates text continuations
 
 Usage:
 1. Install dependencies with: pip install -r requirements.txt
 2. Run the assistant: python main.py
 
 Author: Umut Efe Yavuz
->>>>>>> 7f8cf4d040177c45e0376bb6af9999475ed01837
+
